@@ -1,4 +1,4 @@
-# 🦠 COVID-19 Tracker — Flutter App
+#  COVID-19 Tracker — Flutter App
 
 A clean, null-safe Flutter application that fetches live COVID-19 statistics from the [disease.sh](https://disease.sh) REST API (no API key required).
 
